@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MyForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.MyForm.resources
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\gaohu\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
