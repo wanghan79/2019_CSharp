@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\bin\Debug\CSharp1.exe.config
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\bin\Debug\CSharp1.exe
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\bin\Debug\CSharp1.pdb
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.Form1.resources
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.exe
+d:\documents\visual studio 2015\Projects\CSharp1\CSharp1\obj\Debug\CSharp1.pdb
+d:\Documents\Visual Studio 2015\Projects\Csharp\CSharp1\bin\Debug\CSharp1.exe.config
+d:\Documents\Visual Studio 2015\Projects\Csharp\CSharp1\obj\Debug\CSharp1.exe
+d:\Documents\Visual Studio 2015\Projects\Csharp\CSharp1\obj\Debug\CSharp1.pdb
