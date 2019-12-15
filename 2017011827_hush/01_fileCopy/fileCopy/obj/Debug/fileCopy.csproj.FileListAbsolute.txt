@@ -1,0 +1,9 @@
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\bin\Debug\fileCopy.exe.config
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\bin\Debug\fileCopy.exe
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\bin\Debug\fileCopy.pdb
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\obj\Debug\fileCopy.csprojAssemblyReference.cache
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\obj\Debug\fileCopy.MainForm.resources
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\obj\Debug\fileCopy.Properties.Resources.resources
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\obj\Debug\fileCopy.csproj.GenerateResource.cache
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\obj\Debug\fileCopy.exe
+C:\Users\13248\Desktop\2019_CSharp\2017011827_hush\hw01_fileCopy\fileCopy\obj\Debug\fileCopy.pdb
