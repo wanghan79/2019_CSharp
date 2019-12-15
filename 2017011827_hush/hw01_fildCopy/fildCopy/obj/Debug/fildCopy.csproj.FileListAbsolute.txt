@@ -1,9 +1,0 @@
-C:\Users\13248\source\repos\fildCopy\fildCopy\bin\Debug\fildCopy.exe.config
-C:\Users\13248\source\repos\fildCopy\fildCopy\bin\Debug\fildCopy.exe
-C:\Users\13248\source\repos\fildCopy\fildCopy\bin\Debug\fildCopy.pdb
-C:\Users\13248\source\repos\fildCopy\fildCopy\obj\Debug\fildCopy.csprojAssemblyReference.cache
-C:\Users\13248\source\repos\fildCopy\fildCopy\obj\Debug\fildCopy.MainForm.resources
-C:\Users\13248\source\repos\fildCopy\fildCopy\obj\Debug\fildCopy.Properties.Resources.resources
-C:\Users\13248\source\repos\fildCopy\fildCopy\obj\Debug\fildCopy.csproj.GenerateResource.cache
-C:\Users\13248\source\repos\fildCopy\fildCopy\obj\Debug\fildCopy.exe
-C:\Users\13248\source\repos\fildCopy\fildCopy\obj\Debug\fildCopy.pdb
