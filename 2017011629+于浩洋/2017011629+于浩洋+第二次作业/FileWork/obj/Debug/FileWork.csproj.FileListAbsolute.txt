@@ -1,0 +1,31 @@
+E:\C#study\FileWork\FileWork\FileWork\bin\Debug\FileWork.exe.config
+E:\C#study\FileWork\FileWork\FileWork\bin\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork\FileWork\bin\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.FileInfo.resources
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\obj\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\obj\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\bin\Debug\FileWork.exe.config
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\bin\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork - 无法搜索子文件版本\FileWork\bin\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\bin\Debug\FileWork.exe.config
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\bin\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\bin\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\obj\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork _ 第一版\FileWork\obj\Debug\FileWork.pdb
