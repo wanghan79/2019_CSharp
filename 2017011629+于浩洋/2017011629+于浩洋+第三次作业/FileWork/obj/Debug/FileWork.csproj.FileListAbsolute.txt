@@ -1,0 +1,54 @@
+E:\C#study\FileWork\FileWork\FileWork\bin\Debug\FileWork.exe.config
+E:\C#study\FileWork\FileWork\FileWork\bin\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork\FileWork\bin\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork\FileWork\obj\Debug\FileWork.FileInfo.resources
+E:\C#study\FileWork\FileWork - 副本\FileWork\bin\Debug\FileWork.exe.config
+E:\C#study\FileWork\FileWork - 副本\FileWork\bin\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork - 副本\FileWork\bin\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.FileInfo.resources
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork - 副本\FileWork\obj\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork_第一版\FileWork\bin\Debug\FileWork.exe.config
+E:\C#study\FileWork\FileWork_第一版\FileWork\bin\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork_第一版\FileWork\bin\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.FileInfo.resources
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork_第一版\FileWork\obj\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\bin\Debug\FileWork.exe.config
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\bin\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\bin\Debug\FileWork.pdb
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.csprojAssemblyReference.cache
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.FileInfo.resources
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.csproj.GenerateResource.cache
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.csproj.CoreCompileInputs.cache
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.exe
+E:\C#study\FileWork\FileWork_有文件预览\FileWork\obj\Debug\FileWork.pdb
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\bin\Debug\FileWork.exe.config
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\obj\Debug\FileWork.exe
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\obj\Debug\FileWork.pdb
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\bin\Debug\FileWork.exe
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\bin\Debug\FileWork.pdb
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\obj\Debug\FileWork.csprojResolveAssemblyReference.cache
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\obj\Debug\FileWork.FileWorkMain.resources
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\obj\Debug\FileWork.FileInfo.resources
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\obj\Debug\FileWork.Properties.Resources.resources
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第三次作业\FileWork\obj\Debug\FileWork.csproj.GenerateResource.Cache
