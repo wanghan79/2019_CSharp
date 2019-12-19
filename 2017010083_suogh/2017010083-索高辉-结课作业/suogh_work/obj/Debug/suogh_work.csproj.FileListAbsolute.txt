@@ -7,3 +7,4 @@ c:\users\administrator\documents\visual studio 2013\Projects\suogh_work\suogh_wo
 c:\users\administrator\documents\visual studio 2013\Projects\suogh_work\suogh_work\obj\Debug\suogh_work.csproj.GenerateResource.Cache
 c:\users\administrator\documents\visual studio 2013\Projects\suogh_work\suogh_work\obj\Debug\suogh_work.exe
 c:\users\administrator\documents\visual studio 2013\Projects\suogh_work\suogh_work\obj\Debug\suogh_work.pdb
+C:\Users\gaohu\Documents\workspace\2019_CSharp\2017010083_suogh\2017010083-索高辉-结课作业\suogh_work\bin\Debug\suogh_work.exe.config
