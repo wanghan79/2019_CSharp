@@ -1,0 +1,9 @@
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\bin\Debug\OpenAndSaveFilesFormsApp.exe.config
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\bin\Debug\OpenAndSaveFilesFormsApp.exe
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\bin\Debug\OpenAndSaveFilesFormsApp.pdb
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\obj\Debug\OpenAndSaveFilesFormsApp.csprojAssemblyReference.cache
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\obj\Debug\OpenAndSaveFilesFormsApp.OpenAndSaveFiles.resources
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\obj\Debug\OpenAndSaveFilesFormsApp.Properties.Resources.resources
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\obj\Debug\OpenAndSaveFilesFormsApp.csproj.GenerateResource.cache
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\obj\Debug\OpenAndSaveFilesFormsApp.exe
+C:\Users\13248\Desktop\2019_CSharp\2017011629+于浩洋\2017011629+于浩洋+第一次作业\OpenAndSaveFilesFormsApp\obj\Debug\OpenAndSaveFilesFormsApp.pdb
