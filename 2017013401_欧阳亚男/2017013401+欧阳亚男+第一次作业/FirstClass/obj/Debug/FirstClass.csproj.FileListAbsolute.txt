@@ -1,0 +1,10 @@
+D:\14796\C#Practise\FirstClass\FirstClass\obj\Debug\FirstClass.csprojAssemblyReference.cache
+D:\14796\C#Practise\FirstClass\FirstClass\obj\Debug\FirstClass.Properties.Resources.resources
+D:\14796\C#Practise\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.GenerateResource.cache
+D:\14796\C#Practise\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+D:\14796\C#Practise\FirstClass\FirstClass\bin\Debug\FirstClass.exe.config
+D:\14796\C#Practise\FirstClass\FirstClass\bin\Debug\FirstClass.exe
+D:\14796\C#Practise\FirstClass\FirstClass\bin\Debug\FirstClass.pdb
+D:\14796\C#Practise\FirstClass\FirstClass\obj\Debug\FirstClass.exe
+D:\14796\C#Practise\FirstClass\FirstClass\obj\Debug\FirstClass.pdb
+D:\14796\C#Practise\FirstClass\FirstClass\obj\Debug\FirstClass.saveFile.resources

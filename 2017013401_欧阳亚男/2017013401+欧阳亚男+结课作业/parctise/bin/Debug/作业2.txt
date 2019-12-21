@@ -1,0 +1,122 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+using System.Net;
+
+namespace parctise
+{
+    public partial class ouyyn : Form
+    {
+
+        private FileText anotherform;
+        public ouyyn()
+        {
+            InitializeComponent();
+            anotherform = new FileText();
+        }
+
+        string defaultPath = "";
+        private void Btn_buttonTransform_Click(object sender, EventArgs e)
+        {
+            /*
+            OpenFileDialog ofd = new OpenFileDialog();
+             ofd.Filter = "(*.*)|*.*";                //过滤文件类型
+             ofd.RestoreDirectory = true;             //记忆上次浏览路径
+             if (ofd.ShowDialog() == DialogResult.OK)
+             {
+                 DirectoryInfo dir = Directory.GetParent(ofd.FileName);   //获取文件所在的父目录
+                 allpath = dir;
+                 txt_filesName.Text = dir.ToString() + "\\";
+             }
+            */
+            FolderBrowserDialog dialog = new FolderBrowserDialog();
+            dialog.ShowNewFolderButton = false;
+            //按下确定选择的按钮
+            if (dialog.ShowDialog() == DialogResult.OK)
+            {
+                defaultPath = dialog.SelectedPath + "\\";
+            }
+            txt_filesName.Text = defaultPath ;
+            lst_showSpecifyFiles.Items.Clear();
+        }
+
+
+        public  void TransformFiles(string path)
+        {
+            string text = txt_fileName.Text;
+            try
+            {
+                DirectoryInfo dir = new DirectoryInfo(path);
+                FileInfo[] files = dir.GetFiles("*." + text);
+                foreach (FileInfo file in files)
+                {
+                    string fileName = file.Name;
+                    lst_showSpecifyFiles.Items.Add(fileName);
+                }
+
+                DirectoryInfo[] direcs = dir.GetDirectories();
+                foreach (DirectoryInfo dinfo in direcs)
+                {
+                    TransformFiles(path + dinfo.Name);
+                }
+            }
+            catch { }
+
+    
+        }
+
+
+        private void Btn_showOneFile_Click(object sender, EventArgs e)
+        {
+
+            
+           lst_showSpecifyFiles.Items.Clear();
+            TransformFiles(defaultPath);
+            /*OpenFileDialog opDlg = new OpenFileDialog();
+            opDlg.ShowDialog();
+            txt_fileName.Text = opDlg.FileName;*/
+
+        }
+
+ 
+
+
+        private void btn_openFile_Click(object sender, EventArgs e)
+        {
+    
+
+                /*string path = filename.FileName.ToString();
+                StreamReader sr = new StreamReader(filename.FileName, Encoding.Default);
+                anotherform.ttxt_fileText.Text = sr.ReadToEnd();
+                FileInfo fi = new FileInfo(path);
+                anotherform.Text = ("创建时间：" + fi.CreationTime.ToString() + "  写入文件的时间" + fi.LastWriteTime + "  访问的时间" + fi.LastAccessTime);
+                anotherform.ShowDialog();
+                sr.Close();*/
+            }
+
+        }
+
+        
+       /*private void lst_showSpecifyFiles_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            int index = this.lst_showSpecifyFiles.IndexFromPoint(e.Location);
+            if (index != System.Windows.Forms.ListBox.NoMatches)
+            {
+                MessageBox.Show("这里是双击事件处理代码");
+　　　　    }
+            else
+            {
+                
+                MessageBox.Show("没有选中Item");
+            }
+        }*/
+
+    }
+
