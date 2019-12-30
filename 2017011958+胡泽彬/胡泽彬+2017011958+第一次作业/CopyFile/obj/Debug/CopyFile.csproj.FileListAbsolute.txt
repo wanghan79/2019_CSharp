@@ -1,0 +1,1 @@
+D:\workspace\Csharp\CopyFile\CopyFile\bin\Debug\CopyFile.exe.config
