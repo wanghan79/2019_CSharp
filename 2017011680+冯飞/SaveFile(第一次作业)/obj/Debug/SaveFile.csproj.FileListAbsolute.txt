@@ -1,0 +1,10 @@
+F:\CSharp\SaveFile\SaveFile\bin\Debug\SaveFile.exe.config
+F:\CSharp\SaveFile\SaveFile\bin\Debug\SaveFile.exe
+F:\CSharp\SaveFile\SaveFile\bin\Debug\SaveFile.pdb
+F:\CSharp\SaveFile\SaveFile\obj\Debug\SaveFile.csprojAssemblyReference.cache
+F:\CSharp\SaveFile\SaveFile\obj\Debug\SaveFile.SaveFile.resources
+F:\CSharp\SaveFile\SaveFile\obj\Debug\SaveFile.Properties.Resources.resources
+F:\CSharp\SaveFile\SaveFile\obj\Debug\SaveFile.csproj.GenerateResource.cache
+F:\CSharp\SaveFile\SaveFile\obj\Debug\SaveFile.csproj.CoreCompileInputs.cache
+F:\CSharp\SaveFile\SaveFile\obj\Debug\SaveFile.exe
+F:\CSharp\SaveFile\SaveFile\obj\Debug\SaveFile.pdb
