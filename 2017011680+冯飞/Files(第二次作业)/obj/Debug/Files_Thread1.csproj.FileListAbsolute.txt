@@ -1,0 +1,10 @@
+G:\Csharp\Test\Files\bin\Debug\Files.exe.config
+G:\Csharp\Test\Files\bin\Debug\Files.exe
+G:\Csharp\Test\Files\bin\Debug\Files.pdb
+G:\Csharp\Test\Files\obj\Debug\Files.listBoxFile.resources
+G:\Csharp\Test\Files\obj\Debug\Files.lib.Myform.resources
+G:\Csharp\Test\Files\obj\Debug\Files.Properties.Resources.resources
+G:\Csharp\Test\Files\obj\Debug\Files_Thread1.csproj.GenerateResource.cache
+G:\Csharp\Test\Files\obj\Debug\Files_Thread1.csproj.CoreCompileInputs.cache
+G:\Csharp\Test\Files\obj\Debug\Files.exe
+G:\Csharp\Test\Files\obj\Debug\Files.pdb
