@@ -1,0 +1,4 @@
+有两个按钮点击响应事件，Open按钮是打开文件，Save按钮是保存文件。
+通过openDialog打开文件,字符串dir记录打开文件的名称。
+通过saveDialog保存文件，字符串m_dir为新建的保存文件的文件名。
+通过System.IO.File.Copy来复制文件

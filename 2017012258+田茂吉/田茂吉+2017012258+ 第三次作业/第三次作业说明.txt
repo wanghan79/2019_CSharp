@@ -1,0 +1,5 @@
+使用多线程方式来搜索文件。
+searchFilesinFolder线程搜索文件函数
+string[] files搜索当前目录下的所有文件。
+string[] dirs搜索当前目录下所有文件夹。
+strDir搜索路径。
